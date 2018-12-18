@@ -12,6 +12,8 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    padding-top: 60px;
+    padding-bottom: 30px;
 }
 
 .jumbotron{
@@ -39,7 +41,7 @@ body{
 }
 
 .footer {
-    /*position: fixed;*/        
+    position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
